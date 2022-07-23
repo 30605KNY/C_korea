@@ -18,5 +18,23 @@
     <ClCompile Include="Korea_01_0723_print.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Korea_02_0723_var.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Korea_03_0723_type.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Korea_05_0723_print.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Korea_06_0723_oper.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Korea_07_0723_oper.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Korea_08_0723_oper.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
